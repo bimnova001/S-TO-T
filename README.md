@@ -1,8 +1,8 @@
 <h1>S-To-T</h1>
 ------------------------------------------------
 
-Model  : facebook/s2t-small-librispeech-asr
-Python : 3.10.1
+Model  : facebook/s2t-small-librispeech-asr \n
+Python : 3.10.1 \n
 Date   : 26-10-2024 
 
 ------------------------------------------------
